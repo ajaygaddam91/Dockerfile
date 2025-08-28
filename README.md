@@ -1,10 +1,3 @@
 # Project Dockerfile
-
 ## Project URL
-
-[Project URL](https://github.com/ajaygaddam91/Dockerfile)
-
-
-
-
-
+[Project URL](https://roadmap.sh/projects/basic-dockerfile)
